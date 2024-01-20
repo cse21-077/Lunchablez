@@ -1,16 +1,7 @@
 # lunchablez
 
-A new Flutter project.
+This is one of my best Apps ever in my life, still working on it and hoping to release it, it also gave me good marks for my Research and Innovation Module.. as such Build folder has been excluded
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Below are Some of the Landing Page Screenshots, will upload all screens soon.
+![pro6](https://github.com/cse21-077/Lunchablez/assets/102771883/3502834d-fe00-4913-88d8-361827b8b6ba)
+![pro7](https://github.com/cse21-077/Lunchablez/assets/102771883/909b133a-259b-4273-b3fe-fe03a1bbd6ca)
