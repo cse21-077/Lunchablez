@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "443142965665",
+    "project_id": "lunchable-4bedc",
+    "storage_bucket": "lunchable-4bedc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443142965665:android:2c797f9d19a2b5640363e0",
+        "android_client_info": {
+          "package_name": "com.example.lunchablez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443142965665-ahc8793fdvmi13kigc60puvnvb08ogbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7_Eokg2IHtWSMaWsNqoiKhpHxWTtzcZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443142965665-ahc8793fdvmi13kigc60puvnvb08ogbn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "443142965665-cf1hetp7spbpsb425uckt3svnqde6ipe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lunchablez"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
